@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "imagen": "../img/minilinterna led.png",
+        "nombre": "Mini Linterna LED",
+        "description":"Duracion 1200 recargable usb tipo C",
+        "precio":9300
+    },
+    {
+        "id": 2,
+        "imagen": "../img//capybaraluz.webp",
+        "nombre": "Luz Capybara de Silicona",
+        "description":"Estilo velador con temporizador y recargable con usb tipo C",
+        "precio":16000
+    },
+    {
+        "id": 3,
+        "imagen": "../img/marcadores.jpeg",
+        "nombre": "Marcadores 60 PCS",
+        "description": "60 marcadores con doble uso, punta fina y gruesa",
+        "precio": 15000
+    },
+    {
+        "id": 4,
+        "imagen": "../img/marcadores.jpeg",
+        "nombre": "Marcadores 80 PCS",
+        "description":"80 Marcadores con doble uso, punta fina y gruesa",
+        "precio": 19000
+    },
+    {
+        "id": 5,
+        "imagen": "../img/cargador portatil.jpeg",
+        "nombre": "Cargador portatil",
+        "description":"Estilo llavero para Iphone, medidas 40mm x 70mm",
+        "precio": 7500
+    },
+    {
+        "id": 6,
+        "imagen": "../img/lamparaminera.jpeg",
+        "nombre": "Linterna Minera",
+        "description":"Multiuso 3 estilos, recarga USB tipo C",
+        "precio": 6500
+    },
+    {
+        "id": 7,
+        "imagen": "../img/POP-IT-astronauta.jpg",
+        "nombre": "Pop it",
+        "description":"4 modos de juego, lleva pilas AAA no inluidas",
+        "precio": 8200
+    },
+    {
+        "id": 8,
+        "imagen": "../img/capybara pesca.jpeg",
+        "nombre": "Juego de pesca Capybara",
+        "description":"",
+        "precio": 18000
+    },
+    {
+        "id": 9,
+        "imagen": "../img/cortadora de pelo dragon.png",
+        "nombre": "Cortadora de Pelo",
+        "description":"",
+        "precio": 16000
+    },
+    {
+        "id": 10,
+        "imagen": "../img/aspiradora 3 en 1.webp",
+        "nombre": "Aspiradora 3 en 1",
+        "description":"Recargable con usb tipo C",
+        "precio": 9800
+    },
+    {
+        "id": 11,
+        "imagen": "../img/luzemergencia.jpeg",
+        "nombre": "Luz de Emergencia 30Led",
+        "description":"Duracion 4 a 5hs capacidad de bateria 1200mah, recarga usb",
+        "precio": 9800
+    },
+    {
+        "id": 12,
+        "imagen": "../img/tripodeinteligente.jpg",
+        "nombre": "Tripode Inteligente",
+        "description":"",
+        "precio": 21000
+    },
+    {
+        "id": 13,
+        "imagen": "../img/buclera.jpg",
+        "nombre": "Buclera",
+        "description":"Marca Oryx 7 niveles de temperaturas y 5 opciones de temporizador",
+        "precio": 35000
+    },
+    {
+        "id": 14,
+        "imagen": "..//img/velador estrella.jpg ",
+        "nombre": "Velador Estrella",
+        "description":"",
+        "precio": 10400
+    },
+    {
+        "id": 15,
+        "imagen": "..//img/jarra electrica.png",
+        "nombre": "Pava Electrica",
+        "description":"Tambien disponible en negro y rojo",
+        "precio": 15000
+    },
+    {
+        "id": 16,
+        "imagen": "../img/balanza digital.png",
+        "nombre": "Balanza digital",
+        "description":"Formato circular y cuadrada, lleva 2 pilas AAA No incluidas",
+        "precio": 13500
+    },
+    {
+        "id": 17,
+        "imagen": "../img/mandolina.jpg",
+        "nombre": "Mandolina",
+        "description":"",
+        "precio": 15500
+    },
+    {
+        "id": 18,
+        "imagen": "..//img/raqueta.jpg",
+        "nombre": "Raqueta Electrica",
+        "description":"Mata mosquitos e insectos con linterna y carga usb tipo C",
+        "precio": 15500
+    },
+    {
+        "id": 19,
+        "imagen": "..//img/cortadora de verdura.jpg",
+        "nombre": "Cortador de Frutas y Verduras",
+        "description":"",
+        "precio": 15500
+    },
+    {
+        "id": 20,
+        "imagen": "../img/licuadora portatil.jpeg",
+        "nombre": "Licuadora Portatil",
+        "description":"380Ml capacidad de bateria 2000mah recarga por usb",
+        "precio": 15500
+    },
+    {
+        "id": 21,
+        "imagen": "../img/cortadora de pelo dragon 1.jpeg",
+        "nombre": "Cortadora de pelo     ",
+        "description":"380Ml capacidad de bateria 2000mah recarga por usb",
+        "precio": 15500
+    }
+]

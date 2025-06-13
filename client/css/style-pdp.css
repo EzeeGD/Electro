@@ -1,0 +1,15 @@
+* {
+    margin: 15px 30px;
+    padding: 15px;
+    text-align: center;
+    background: #c4c3c3;
+    font-size: larger;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 30px;
+}

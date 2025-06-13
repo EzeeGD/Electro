@@ -1,0 +1,106 @@
+.container {
+    gap: 30px;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+    width: 270px;
+    height: 400px;
+    border: 2px solid #285f1e;
+    border-radius: 10px;
+    background-color: #fff;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.1);
+    filter: brightness(110%);
+    transition: .5s ease-in;
+    box-shadow: 5px 20px 60px  rgb(240, 11, 11);
+}
+
+.card img {
+    width: 69%;
+}
+
+.card-name {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    display: block;
+    width: 1fr;
+    padding: 15px 5px;
+}
+
+.card-description {
+    text-align: center;
+    display: block;
+    font-weight: 300;
+    font-size: 19px;
+    margin: 0px 10px;
+}
+
+.card-price {
+    font-size: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    background: linear-gradient(#02487c,#172b44);
+    height: 70px;
+    width: 270px;
+    line-height: 55px;
+    text-align: center;
+}
+
+.card .card-button {
+    text-align: center;
+    display: block;
+}
+
+.button-add {
+    height: 30px;
+    width: 190px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.card .card-button .disabled {
+    background-color: lightgray !important;
+    color: #2A2A2A !important;
+}
+
+.card .card-button button:active {
+    background: rgba(172, 5, 5, 0.815)!important;
+    color: #2a2a2a !important;
+}
+
+.sin-stock {
+    filter: grayscale(100%) opacity(40%); 
+}
+
+#errorCard {
+    display: none;
+    background: #222;
+    box-shadow: 0px 6px 20px rgba(255, 0, 0, 0.147);
+    border: 1px solid darkred;
+    border-radius: 6px;
+    padding: 40px;
+    margin-top: 20%;
+    color: rgb(175, 14, 14);
+    font-size: 30px;
+}
+
+.centrar-div {
+    text-align: center;
+}
