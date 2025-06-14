@@ -9,8 +9,7 @@
 .button-filter {
     display: flex;
     align-items: center;
-    margin-right: 41rem;
-    margin-top: 4rem;
+    margin-right: 47rem;
 }
 
 
@@ -32,6 +31,7 @@
 
 .cards-filter::placeholder {
     color: black;
+    z-index: 1;
     /* color del placeholder */
 }
 
@@ -44,6 +44,7 @@
     .cards-filter{
         width: 15rem;
         position: absolute;
-        left: 50px;
+        left: 7rem;
+        margin-top: 75px;
     }
 }
