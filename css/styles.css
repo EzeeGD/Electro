@@ -359,3 +359,12 @@ footer {
     width: 80px;
     margin: 10px;
 }
+
+@media screen and (max-width: 768px) {
+    .titulo h1 {
+        font-size: 40px;
+    }
+    header {
+        height: 150px;
+
+    }
