@@ -1,0 +1,49 @@
+:root {
+    --color-primario: #99b898;
+    --color-secundario: #fecea8;
+    --color-terciario: #ff847c;
+    --color-cuaternario: #e84a5f;
+    --color-quintario: #2a363b;
+}
+
+.button-filter {
+    display: flex;
+    align-items: center;
+    margin-left: 28rem;
+    margin-top: 50px;
+    padding-top: 15px;
+}
+
+
+.cards-filter {
+    background-color: #d1d1d1;
+    border: none;
+    height: 15px;
+    width: 25rem;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: 1s;
+}
+
+.cards-filter::placeholder {
+    color: black;
+    /* color del placeholder */
+}
+
+.filter {
+    display: none;
+}
+
+@media only screen and (max-width: 450px) {
+    
+    .button-filter {
+        width: 250px;
+        margin-left: 50%;
+    }
+}
