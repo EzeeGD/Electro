@@ -7,7 +7,7 @@ function retornarCardHTML(producto) {
         <div class="card">
             <div class="card-name">${producto.nombre}</div>
             <img src="${producto.imagen}" alt="${producto.nombre}">
-            <div class="card-price">$${producto.precio}</div>
+            <div class="container-price"><div class="card-price">$${producto.precio}</div></div>
         </div>`
 }
 
