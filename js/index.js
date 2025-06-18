@@ -3,13 +3,16 @@ const URL_Productos = './data/productos.json'
 const productos = []
 
 function retornarCardHTML(producto) {
+    const precioFormateado = Number(producto.precio).toLocaleString('es-AR');
+
     return `
         <div class="card">
             <div class="card-name">${producto.nombre}</div>
             <img src="${producto.imagen}" alt="${producto.nombre}">
-            <div class="container-price"><div class="card-price">$${producto.precio}</div></div>
-        </div>`
+            <div class="container-price"><div class="card-price">$${precioFormateado}</div></div>
+        </div>`;
 }
+
 
 function promptErrorCard() {
     const errorCard = document.getElementById('errorCard');
