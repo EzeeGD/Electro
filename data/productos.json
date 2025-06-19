@@ -1166,5 +1166,20 @@
     "description":"",
     "precio":19000,
     "imagen": "https://redlenic.uno/fotos/16894.jpg"
+  },
+  {
+    "id": 168,
+    "nombre": "Marcadores doble punta 80Pcs",
+    "description":"",
+    "precio":19000,
+    "imagen": "https://kiranimport.com/fotos/11454.jpg"
+  },
+  {
+    "id": 169,
+    "nombre": "Marcadores doble punta 60Pcs",
+    "description":"",
+    "precio":15000,
+    "imagen": "https://kiranimport.com/fotos/11454.jpg"
   }
+
 ]
