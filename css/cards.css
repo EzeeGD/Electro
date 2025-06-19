@@ -7,19 +7,20 @@
     justify-content: center;
 }
 
-.card {|
+.card {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;                   
-    width: 400px;
+    justify-content: space-between;
+    width: 300px;
     height: 400px;
     padding: 16px;
-    border: 1px solid #ddd;
+    border: 3px solid #ddd;
     border-radius: 12px;
     text-align: center;
     background-color: #fff;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease;
+    margin-top: 40px;
 }
 
 .card:hover {
@@ -115,7 +116,7 @@ color: #333;
 
     .card {
         width: 40%;
-        height: 350px;
+        height: 40%;
         margin:  0px;
     }
 

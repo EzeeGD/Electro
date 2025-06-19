@@ -8,8 +8,8 @@
 
 .button-filter {
     display: flex;
+    justify-content: ;
     align-items: center;
-    margin-right: 47rem;
 }
 
 
@@ -39,12 +39,15 @@
     display: none;
 }
 
-@media only screen and (max-width: 450px) {
-    
-    .cards-filter{
-        width: 15rem;
-        position: absolute;
-        left: 7rem;
-        margin-top: 75px;
+@media only screen and (max-width: 768px) {
+    .button-filter {
+        display: flex;
+        flex-direction: column;
+    }
+    .cards-filter {
+        width: 100%;
+        height: 30px;
+        padding: 0px 0;
+        font-size: 20px;
     }
 }
