@@ -28,7 +28,7 @@
     transform: scale(1.1);
     filter: brightness(110%);
     transition: .5s ease-in;
-    box-shadow: 5px 20px 60px  rgb(240, 11, 11);
+    box-shadow: 5px 20px 60px  rgb(11, 240, 209);
 }
 
 .card img {

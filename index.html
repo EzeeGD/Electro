@@ -9,23 +9,29 @@
     <link rel="stylesheet" href="css/cards.css">
     <link rel="stylesheet" href="css/styleFilters.css">
     <link rel="stylesheet" href="css/modal.css">
-    <title>ElectroMania</title>
+    <title>La Foret Outlet</title>
     <script defer src="js/index.js"></script>
     <script defer src="js/scripts.js"></script>
     <script defer src="js/search.js"></script>
 <body>
     <header>
         <div class="titulo">
-            <h1>ElectroMania</h1>
+            <h1>La Foret Outlet</h1>
         </div>
         <div class="button-filter">
             <input type="search" placeholder="Buscar" class="cards-filter">
         </div>
-        <div class="carrito">
-            <a href="carrito.html" class="carrito-link">
-                <i class="fa-solid fa-cart-shopping"></i>
-                <span id="cart-count"></span>
-            </a>
+            <button id="openPopup">Mas Info</button>
+        <div id="popup" class="popup">
+            <div class="popup-content">
+                <span id="closePopup" class="close">&times;</span>
+                <h2>Información importante</h2>
+                <br>
+                <p>Esta página funciona como un catálogo. Los precios publicados son estimativos y pueden variar.
+                    Si te interesa algún producto, comunicate a los siguientes números por whatsapp +11 5972-1146 o +11 3440-4568 indicando el nombre del producto para verificar su disponibilidad y precio actual.
+                    En caso de no encontrar el producto que estás buscando, no dudes en consultarnos. Es posible que aún no lo hayamos cargado al sitio.</p>
+            </div>
+        </div>
     </header>
     <!-- Notificacion de producto agregado -->
     <div class="notificacion" id="notificacion">Producto agregado al carrito</div>
@@ -56,6 +62,10 @@
                     <i class="fa-brands fa-whatsapp"></i>
                     </a> 11-59721137
                 </li>
+                <li>
+                    <a class="social-link" href="#">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    </a> 11-34404568
             </ul>
         </div>
         <div class="derechos" id="privacidad">

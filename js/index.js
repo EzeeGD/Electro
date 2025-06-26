@@ -102,3 +102,33 @@ function obtenerProductos() {
 
 // Iniciar
 obtenerProductos();
+
+document.addEventListener("DOMContentLoaded", () => {
+  const popup = document.getElementById("popup");
+  const closeBtn = document.getElementById("closePopup");
+  const openBtn = document.getElementById("openPopup");
+
+  // Mostrar pop-up automáticamente si no se mostró en esta sesión
+  if (!sessionStorage.getItem("popupShown")) {
+    popup.style.display = "block";
+    sessionStorage.setItem("popupShown", "true");
+  }
+
+  // Cerrar el pop-up
+  closeBtn.addEventListener("click", () => {
+    popup.style.display = "none";
+  });
+
+  // Cierre si se hace clic fuera del contenido
+  window.addEventListener("click", (event) => {
+    if (event.target === popup) {
+      popup.style.display = "none";
+    }
+  });
+
+  // Volver a abrir con botón
+  openBtn.addEventListener("click", () => {
+    popup.style.display = "block";
+  });
+});
+
