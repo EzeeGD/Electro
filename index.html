@@ -1,41 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://kit.fontawesome.com/a2dd6045c4.js" crossorigin="anonymus"></script>
-    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/cards.css">
-    <link rel="stylesheet" href="css/styleFilters.css">
-    <link rel="stylesheet" href="css/modal.css">
-    <title>La Foret Outlet</title>
-    <script defer src="js/index.js"></script>
-    <script defer src="js/scripts.js"></script>
-    <script defer src="js/search.js"></script>
-<body>
-    <header>
-        <div class="titulo">
-            <h1>La Foret Outlet</h1>
-        </div>
-        <div class="button-filter">
-            <input type="search" placeholder="Buscar" class="cards-filter">
-        </div>
-            <button id="openPopup">Mas Info</button>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://kit.fontawesome.com/a2dd6045c4.js" crossorigin="anonymus"></script>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <link rel="stylesheet" href="css/cards.css">
+        <link rel="stylesheet" href="css/styleFilters.css">
+        <link rel="stylesheet" href="css/modal.css">
+        <link rel="stylesheet" href="css/nav.css">
+        <title>D&D</title>
+        <script defer src="js/index.js"></script>
+        <script defer src="js/scripts.js"></script>
+        <script defer src="js/search.js"></script>
+    </head>
+    <body>
+        <nav class="menu">
+            <section class="menu__container">
+                <h1 class="menu__logo">D&D</h1>
+                <div class="button-filter">
+                    <input type="search" placeholder="Buscar" class="cards-filter">
+                </div>
+                <ul class="menu__links">
+                    <li class="menu__item">
+                        <a href="#" class="menu__link">Contacto<img src="assets/arrow.svg" class="menu__arrow"></a>
+                        <ul class="menu_nesting">
+                            <li class="menu__inside">
+                                <a href="https://wa.me/541159721146" target="_blank" class="menu__link menu__link--inside">+11 5972-1146</a>
+                            </li>
+                            <li class="menu__inside">
+                                <a href="https://wa.me/541134404568" target="_blank" class="menu__link menu__link--inside">+11 3440-4568</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="menu__item">
+                        <a href="#" class="menu__link" id="openPopup">+Info</a>
+                    </li>
+                </ul>
+            </section>
+        </nav>
         <div id="popup" class="popup">
             <div class="popup-content">
                 <span id="closePopup" class="close">&times;</span>
                 <h2>Información importante</h2>
                 <br>
                 <p>Esta página funciona como un catálogo. Los precios publicados son estimativos y pueden variar.
-                    Si te interesa algún producto, comunicate a los siguientes números por whatsapp +11 5972-1146 o +11 3440-4568 indicando el nombre del producto para verificar su disponibilidad y precio actual.
-                    En caso de no encontrar el producto que estás buscando, no dudes en consultarnos. Es posible que aún no lo hayamos cargado al sitio.</p>
+                Si te interesa algún producto, comunicate con nosotros e indicanos el nombre del producto o sino una Foto para verificar su disponibilidad y precio actual.
+                En caso de no encontrar el producto que estás buscando, no dudes en consultarnos. Es posible que aún no lo hayamos cargado al sitio.</p>
             </div>
         </div>
-    </header>
-    <!-- Notificacion de producto agregado -->
-    <div class="notificacion" id="notificacion">Producto agregado al carrito</div>
-    <section class="container" id="cardContainer">
+        <section class="container" id="cardContainer">
         <!-- Productos -->
         <div id="errorCard">
             <h2>Lo siento, Hubo un problema!!!</h2>
@@ -43,34 +59,18 @@
             <h3>Por favor intente mas tarde...</h3>
         </div>
     </section>
-    <div id="modalProducto" class="modal ocultar">
-    <div class="modal-contenido">
-        <span class="cerrar">&times;</span>
-        <h2 id="modalNombre"></h2>
-        <img id="modalImagenPrincipal" src="" alt="" />
-        <p id="modalDescripcion"></p>
-        <div id="modalGaleria" class="galeria-imagenes"></div>
-    </div>
-</div>
-
-    <footer>
-        <div class="contacto" id="contacto">
-            <h4>Contacto</h4>
-            <ul>
-                <li>
-                    <a class="social-link href=" #">
-                    <i class="fa-brands fa-whatsapp"></i>
-                    </a> 11-59721137
-                </li>
-                <li>
-                    <a class="social-link" href="#">
-                    <i class="fa-brands fa-whatsapp"></i>
-                    </a> 11-34404568
-            </ul>
+        <div id="modalProducto" class="modal ocultar">
+            <div class="modal-contenido">
+                <span class="cerrar">&times;</span>
+                <h2 id="modalNombre"></h2>
+                <img id="modalImagenPrincipal" src="" alt="" />
+                <p id="modalDescripcion"></p>
+                <div id="modalGaleria" class="galeria-imagenes">
+                </div>
+            </div>
         </div>
-        <div class="derechos" id="privacidad">
-            <h5>Todos los derechos reservados. Ⓡ</h5>
-        </div>
-    </footer>
-</body>
+        <footer class="footer">
+            <p>© 2025 D&D. Todos los derechos reservados.</p>
+            <p>Desarrollado por <a href="https://github.com/EzeeGD" target="_blank">Ezequiel Guardia</a>"
+    </body>
 </html>

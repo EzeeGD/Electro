@@ -5,12 +5,11 @@
     list-style: none;
 }
 
-
 body {
     font-weight: 100;
-    font-family: "sen", sans-serif;;
-    background-repeat: no-repeat;
-    background-size: cover; /* O 'contain' según lo que busques */
+    font-family: "sen", sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/429/474/original/electronic-circuit-design-on-a-dark-blue-background-vector.jpg);
+    background-size: cover;
     background-position: center;
     margin-top: 80px;
     width: 100%;
@@ -22,7 +21,7 @@ header {
     display: flex;
     top: 0;
     justify-content: space-between;
-    background-color: #747373;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/006/950/496/non_2x/abstract-background-with-technology-electronic-motherboard-illustration-vector.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -55,7 +54,7 @@ footer {
     display: flex;
     text-align: center;
     justify-content: space-evenly;
-    color: rgb(39, 42, 44);
+    color: aliceblue;
     padding-top: 35rem;
     padding-bottom: 70px;
     font-size: 23px;
@@ -73,13 +72,10 @@ footer {
 
 
 #openPopup {
-    color:;
-    background-color: rgb(182, 182, 182);
-    border-radius: 50%;
-    width: 60px;
+    /* width: 60px;
     height: 60px;
     margin: 20px;
-    font-size: large;
+    font-size: large; */
 }
 
 .popup {
@@ -114,6 +110,7 @@ footer {
 .popup-content p {
   text-align: center;
   font-size: larger;
+  color: black;
 }
 
 /* Botón de cierre */
