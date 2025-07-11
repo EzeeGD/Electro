@@ -5,10 +5,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
 }
 
-body{
+h1 {
+    font-size: 2rem;
+    color: #fff;
+    margin: 10px
+}
+
+html, body{
     font-family: 'Poppins', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
 }
 
 .menu{
@@ -86,6 +95,14 @@ body{
     z-index: 100;
 }
 
+.menu__hamburguer {
+    display: none;
+    cursor: pointer;
+}
+
+.menu__hamburguer img {
+    height: 30px;
+}
 
 .popup {
     display: none;
@@ -140,8 +157,15 @@ footer {
 }
 
 @media (max-width:800px){
-    .menu__hamburguer{
-        display: flex;
+    .menu__container{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .menu__hamburguer {
+    display: flex;
+    margin: 15px;
     }
 
     .menu__item{
@@ -195,4 +219,10 @@ footer {
         margin-left: auto;
         border-left: 1px solid #798499;
     }
+}
+
+@media screen (min-width: 500px){
+
+
+
 }
