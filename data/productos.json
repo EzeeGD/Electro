@@ -1165,21 +1165,71 @@
     "nombre": "MATE LISTO-AR732",
     "description":"",
     "precio":19000,
-    "imagen": "https://redlenic.uno/fotos/16894.jpg"
+    "imagen": "https://redlenic.uno/fotos/16894.jpg",
+    "categoria": "Bazar"
   },
   {
     "id": 168,
     "nombre": "Marcadores doble punta 80Pcs",
     "description":"",
     "precio":19000,
-    "imagen": "https://kiranimport.com/fotos/11454.jpg"
+    "imagen": "https://kiranimport.com/fotos/11454.jpg",
+    "categoria": "Juguetes"
   },
   {
     "id": 169,
     "nombre": "Marcadores doble punta 60Pcs",
     "description":"",
     "precio":15000,
-    "imagen": "https://kiranimport.com/fotos/11454.jpg"
+    "imagen": "https://kiranimport.com/fotos/11454.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 170,
+    "nombre": "Marcadores doble punta 40Pcs",
+    "description":"",
+    "precio":12000,
+    "imagen": "https://kiranimport.com/fotos/11454.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 171,
+    "nombre": "Marcadores doble punta 24Pcs",
+    "description":"",
+    "precio":8000,
+    "imagen": "https://kiranimport.com/fotos/11454.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 172,
+    "nombre": "Marcadores doble punta 12Pcs",
+    "description":"",
+    "precio":5000,
+    "imagen": "https://kiranimport.com/fotos/11454.jpg",
+    "categoria": ""
+  },
+  {
+    "id": 173,
+    "nombre": "SET ASADO X2 ESTUCHE NEGRO",
+    "description":"",
+    "precio":12000,
+    "imagen": "https://kiranimport.com/fotos/10708.jpg",
+    "categoria": "Bazar"
+  },
+  {
+    "id": 174,
+    "nombre": "VASO CON SENSOR STEEL COFFEE",
+    "description":"",
+    "precio":0,
+    "imagen": "https://kiranimport.com/fotos/11794-3.jpg",
+    "categoria": "Bazar"
+  },
+  {
+    "id": 175,
+    "nombre": "PROYECTOR GAMER",
+    "description":"",
+    "precio":0,
+    "imagen": "https://kiranimport.com/fotos/11774.jpg",
+    "categoria": "Tecnologia"
   }
-
 ]
