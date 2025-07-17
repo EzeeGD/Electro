@@ -25,7 +25,7 @@ function filtrarProductos(input, selector) {
             const filtro = e.target.value.toLowerCase();
 
             d.querySelectorAll(selector).forEach((el) => {
-                const titulo = el.querySelector(".card-title")?.textContent.toLowerCase() || "";
+                const titulo = el.querySelector(".card-name")?.textContent.toLowerCase() || "";
                 const categoria = el.querySelector(".card-categoria")?.textContent.toLowerCase() || "";
 
                 if (titulo.includes(filtro) || categoria.includes(filtro)) {

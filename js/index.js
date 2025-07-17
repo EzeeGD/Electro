@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById('modalNombre').innerText = producto.nombre;
     document.getElementById('modalImagenPrincipal').src = producto.imagen;
     document.getElementById('modalImagenPrincipal').alt = producto.nombre;
-    document.getElementById('modalDescripcion').innerText = producto.descripcion;
+    document.getElementById('modalDescripcion').innerText = producto.description;
 
     const galeria = document.getElementById('modalGaleria');
     galeria.innerHTML = '';
