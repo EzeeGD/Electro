@@ -53,6 +53,13 @@ color: #333;
     margin: 0px 10px;
 }
 
+.card-categoria {
+    font-weight: 300;
+    font-size: 10px;
+    margin: 0px 10px;
+    color: #555;
+}
+
 .container-price{
     display: flex;
     justify-content: center;

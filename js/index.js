@@ -39,6 +39,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="card" data-id="${producto.id}">
         <div class="card-name">${producto.nombre}</div>
         <img src="${producto.imagen}" alt="${producto.nombre}">
+        <div class="card-categoria">${producto.categoria}</div>
         <div class="container-price">
           <div class="card-price">$${precioFormateado}</div>
         </div>
