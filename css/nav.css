@@ -20,10 +20,25 @@ html, body{
     overflow-x: hidden;
 }
 
+.logo img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+nav {
+    margin-bottom: 5rem;
+}
+
 .menu{
     background-color: #1A202C;
     color: #fff;
     height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Para que quede por encima de otros elementos */
 }
 
 .menu__container{

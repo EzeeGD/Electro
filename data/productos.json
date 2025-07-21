@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "nombre": "Abridor de vino SET",
+    "nombre": "SET TACO DE VINO X6PCS",
     "description":"",
-    "precio":17400,
-    "imagen": "https://dazimportadora.com.ar/wp-content/uploads/2025/06/productos-14-04-25-70.png",
+    "precio":15300,
+    "imagen": "https://kiranimport.com/fotos/10629.jpg",
     "categoria": "Bazar"
   },
   {
@@ -41,10 +41,10 @@
   },
   {
     "id": 6,
-    "nombre": "Anafe Simple Oryx",
+    "nombre": "GAME BOX-OM",
     "description":"",
-    "precio":19000,
-    "imagen": "https://dazimportadora.com.ar/wp-content/uploads/2024/07/Agregar-texto-93.png",
+    "precio":10000,
+    "imagen": "https://redlenic.uno/fotos/17705.jpg",
     "categoria": "Electrodomésticos"
   },
   {
@@ -212,7 +212,7 @@
     "nombre": "AUTO C/CONTROL - CX97",
     "description":"",
     "precio":37000,
-    "imagen": "https://dazimportadora.com.ar/wp-content/uploads/2025/01/Flash-65.png",
+    "imagen": "https://redlenic.uno/fotos/16410.jpg",
     "categoria": "Juguetes"
   },
   {
@@ -883,8 +883,8 @@
     "id": 111,
     "nombre": "Guantes para Moto ",
     "description":"",
-    "precio":0,
-    "imagen": "https://redlenic.uno/fotos/15994.jpg",
+    "precio":13000,
+    "imagen": "https://redlenic.uno/fotos/17108.jpg",
     "categoria": "Automoviles y Motos"
   },
   {
@@ -900,7 +900,7 @@
     "nombre": "Humificador Aromatico",
     "description":"",
     "precio":24500,
-    "imagen": "hhttps://redlenic.uno/fotos/17013.jpg",
+    "imagen": "https://redlenic.uno/fotos/17013.jpg",
     "categoria": "Bazar"
   },
   {
@@ -1105,10 +1105,10 @@
   },
   {
     "id": 139,
-    "nombre": "Kit Teclado Con Luz",
+    "nombre": "TECLADO CON LUZ RGB PRO GAMER",
     "description":"",
-    "precio":0,
-    "imagen": "https://redlenic.uno/fotos/16022.jpg",
+    "precio":15600,
+    "imagen": "https://kiranimport.com/fotos/10880.jpg",
     "categoria": "Tecnologia"
   },
   {
@@ -1132,7 +1132,7 @@
     "nombre": "Lampara de mesa Astronauta",
     "description":"",
     "precio":10000,
-    "imagen": "hhttps://redlenic.uno/fotos/16096.jpg",
+    "imagen": "https://redlenic.uno/fotos/16096.jpg",
     "categoria": "Iluminacion y Electricidad"
   },
   {
@@ -1161,11 +1161,11 @@
   },
   {
     "id": 146,
-    "nombre": "Lampara Mata Mosquitos ",
+    "nombre": "MESA PARA NNIÑOS 356",
     "description":"",
-    "precio":0,
-    "imagen": "https://redlenic.uno/fotos/16029.jpg",
-    "categoria": "Iluminacion y Electricidad"
+    "precio":17000,
+    "imagen": "https://redlenic.uno/fotos/17944.jpg",
+    "categoria": "Juguetes"
   },
   {
     "id": 147,
@@ -1387,7 +1387,7 @@
     "id": 174,
     "nombre": "VASO CON SENSOR STEEL COFFEE",
     "description":"Vaso con sensor de temperatura, acero inoxidable, tapa de silicona, capacidad 450ml",
-    "precio":0,
+    "precio": 13500,
     "imagen": "https://kiranimport.com/fotos/11794-3.jpg",
     "categoria": "Bazar"
   },
@@ -1395,8 +1395,528 @@
     "id": 175,
     "nombre": "PROYECTOR GAMER",
     "description":"",
-    "precio":0,
+    "precio": 92000,
     "imagen": "https://kiranimport.com/fotos/11774.jpg",
     "categoria": "Tecnologia"
+  },
+  {
+    "id": 176,
+    "nombre": "TV BOX (4K,HDR, ANDROID TV)",
+    "description":"",
+    "precio":30000,
+    "imagen": "https://kiranimport.com/fotos/10325.jpg",
+    "categoria": "Tecnologia"
+  },
+  {
+    "id": 177,
+    "nombre": "MINI PIMER 4 EN 1 MIXER",
+    "description":"",
+    "precio":40000,
+    "imagen": "https://kiranimport.com/fotos/11184.jpg",
+    "categoria": "Electrodomésticos"
+  },
+  {
+    "id": 178,
+    "nombre": "Llave Tubo Set de 46Piezas",
+    "description":"",
+    "precio":12400,
+    "imagen": "https://kiranimport.com/fotos/10009.jpg",
+    "categoria": "Herramientas"
+  },
+  {
+    "id": 179,
+    "nombre": "KIT FICHERO POKER 200 FICHA TEXAS",
+    "description":"",
+    "precio":15000,
+    "imagen": "https://kiranimport.com/fotos/10529.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 180,
+    "nombre": "GAME BOX M15",
+    "description":"",
+    "precio":32500,
+    "imagen": "https://kiranimport.com/fotos/11404.jpg",
+    "categoria": "Tecnologia"
+  },
+  {
+    "id": 181,
+    "nombre": "REPETIDOR LINEA NARANJA WIFI",
+    "description":"",
+    "precio":13000,
+    "imagen": "https://kiranimport.com/fotos/11462.jpg",
+    "categoria": "Tecnologia"
+  },
+  {
+    "id": 182,
+    "nombre": "JUEGO DOMINO",
+    "description":"",
+    "precio":6000,
+    "imagen": "https://kiranimport.com/fotos/11809.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 183,
+    "nombre": "PERRITO A PILAS",
+    "description":"",
+    "precio":600,
+    "imagen": "https://kiranimport.com/fotos/11762.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 184,
+    "nombre": "ASTRONAUT PROJECTOR LIGHT",
+    "description":"",
+    "precio":18000,
+    "imagen": "https://kiranimport.com/fotos/11808.jpg",
+    "categoria": "Juguetes"
+  },
+  {
+    "id": 185,
+    "nombre": "PROTON 36 LED LUZ PARA ESCENARIO DJ",
+    "description":"",
+    "precio":18500,
+    "imagen": "https://kiranimport.com/fotos/10524.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 186,
+    "nombre": "PROTON DE 54 LED DE COLORES",
+    "description":"",
+    "precio":21000,
+    "imagen": "https://kiranimport.com/fotos/10692.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 187,
+    "nombre": "PROTON 18 LED",
+    "description":"",
+    "precio":14500,
+    "imagen": "https://kiranimport.com/fotos/11786.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 188,
+    "nombre": "FREIDORA DE AIRE DIGITAL 4.5L",
+    "description":"",
+    "precio":65000,
+    "imagen": "https://kiranimport.com/fotos/11676.jpg",
+    "categoria": "Electrodomésticos"
+  },
+  {
+    "id": 189,
+    "nombre": "ASPIRADORA DE MANO-TOKYO-23-SGD-558",
+    "description":"",
+    "precio": 28000,
+    "imagen": "https://redlenic.uno/fotos/17016.jpg",
+    "categoria": "Automoviles y Motos"
+  },
+  {
+    "id": 190,
+    "nombre": "ASPIRADORA MOPA- CNW21625",
+    "description":"",
+    "precio": 32000,
+    "imagen": "https://redlenic.uno/fotos/16925.jpg",
+    "categoria": "Electrodomésticos"
+  },
+  {
+    "id": 191,
+    "nombre": "ASTRONAUTA C/PARLANTE Y LUZ-YM-121",
+    "description":"",
+    "precio": 31500,
+    "imagen": "https://redlenic.uno/fotos/17495.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 192,
+    "nombre": "SET DE VINO C/DESTAPADOR",
+    "description":"",
+    "precio": 16400,
+    "imagen": "https://kiranimport.com/fotos/11379.jpg",
+    "categoria": "Bazar"
+  },
+  {
+    "id": 193,
+    "nombre": "TENDER VERTICAL ",
+    "description":"",
+    "precio": 31500,
+    "imagen": "https://redlenic.uno/fotos/10012.jpg",
+    "categoria": "Hogar y Decoración"
+  },
+  {
+    "id": 194,
+    "nombre": "Picana Electrica +(Linterna)",
+    "description":"",
+    "precio": 11500,
+    "imagen": "https://kiranimport.com/fotos/10369.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 195,
+    "nombre": "LINTERNA RECARGABLE",
+    "description":"",
+    "precio": 7000,
+    "imagen": "https://kiranimport.com/fotos/10783.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 196,
+    "nombre": "Linterna Militar Tactica(ESTUCHE)",
+    "description":"",
+    "precio": 11500,
+    "imagen": "https://kiranimport.com/fotos/10098.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 197,
+    "nombre": "LINTERNA MINERA DE CABEZA TIPO VINCH",
+    "description":"",
+    "precio": 8000,
+    "imagen": "https://kiranimport.com/fotos/10693.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 198,
+    "nombre": "LINTERNA DE BUSQUEDA MULTIFUNCIONAL",
+    "description":"",
+    "precio": 22500,
+    "imagen": "https://kiranimport.com/fotos/11405-2.jpg",
+    "categoria": "Iluminacion y Electricidad"
+  },
+  {
+    "id": 199,
+    "nombre": "LINTERNA MINERA XY501/g188",
+    "description":"",
+    "precio": 8000,
+    "imagen": "https://redlenic.uno/fotos/10038.jpg",
+    "categoria": ""
+  },
+  {
+    "id": 200,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 201,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 202,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 203,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 204,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 205,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 206,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 207,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 208,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 209,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 210,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 211,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 212,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 213,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 214,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 215,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 216,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 217,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 218,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 219,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 220,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 221,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 222,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 223,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 224,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 225,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 226,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 227,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 228,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 229,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 230,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 231,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 232,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 233,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 234,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 235,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 236,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 237,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 238,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 239,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
+  },
+  {
+    "id": 240,
+    "nombre": "",
+    "description":"",
+    "precio": 0,
+    "imagen": "",
+    "categoria": ""
   }
 ]
